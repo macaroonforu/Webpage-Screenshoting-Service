@@ -12,4 +12,4 @@ A simple PHP script that allows a user to enter a URL, then returns a screenshot
 
 <h3><b>View Live Demo</b></h3>
 
-![04 09 2023_18 33 58_REC](https://github.com/macaroonforu/Webpage-Screenshoting-Service/assets/121368271/ac1fbb12-adbb-495d-84a5-1c017f7c7396)
+![screenshot (2)](https://github.com/macaroonforu/Webpage-Screenshoting-Service/assets/121368271/2714b7e2-8d94-4fb0-a7b4-784738d24910)
