@@ -10,6 +10,10 @@
 
 A simple PHP script that allows a user to enter a URL, then returns a screenshot of that website to the user. In the following demo, it is being run on a local lighttpd webserver (http://localhost/screenshotindex.php). 
 
-<h3><b>Demo</b></h3>
+### Demo 
+
+<div  align=center>
 
 ![screenshot (2)](https://github.com/macaroonforu/Webpage-Screenshoting-Service/assets/121368271/2714b7e2-8d94-4fb0-a7b4-784738d24910)
+</div>
+
